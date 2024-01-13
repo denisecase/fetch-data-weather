@@ -1,0 +1,9 @@
+# Don't commit secrets in .env files to your git repository.
+.env
+
+# Don't commit the .venv project virtual environment folder
+.venv/
+
+# Don't commit .vscode settings folder
+.vscode/
+

@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -114.8917,
+        "lat": 39.2481
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 272.67,
+        "feels_like": 269.49,
+        "temp_min": 272.67,
+        "temp_max": 272.67,
+        "pressure": 1014,
+        "humidity": 55
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 260
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1705124082,
+    "sys": {
+        "type": 1,
+        "id": 3978,
+        "country": "US",
+        "sunrise": 1705071509,
+        "sunset": 1705106194
+    },
+    "timezone": -28800,
+    "id": 5503694,
+    "name": "Ely",
+    "cod": 200
+}

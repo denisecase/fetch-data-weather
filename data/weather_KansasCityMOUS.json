@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -94.5781,
+        "lat": 39.1001
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 259.55,
+        "feels_like": 252.55,
+        "temp_min": 257.88,
+        "temp_max": 260.66,
+        "pressure": 1011,
+        "humidity": 77
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.71,
+        "deg": 280,
+        "gust": 11.62
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1705124082,
+    "sys": {
+        "type": 2,
+        "id": 47709,
+        "country": "US",
+        "sunrise": 1705066610,
+        "sunset": 1705101339
+    },
+    "timezone": -21600,
+    "id": 4393217,
+    "name": "Kansas City",
+    "cod": 200
+}

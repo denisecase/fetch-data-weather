@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -94.8189,
+        "lat": 38.8839
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 259.03,
+        "feels_like": 252.03,
+        "temp_min": 257.54,
+        "temp_max": 260.4,
+        "pressure": 1013,
+        "humidity": 82
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.63,
+        "deg": 310,
+        "gust": 8.75
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1705124412,
+    "sys": {
+        "type": 2,
+        "id": 2009224,
+        "country": "US",
+        "sunrise": 1705066633,
+        "sunset": 1705101432
+    },
+    "timezone": -21600,
+    "id": 4276614,
+    "name": "Olathe",
+    "cod": 200
+}

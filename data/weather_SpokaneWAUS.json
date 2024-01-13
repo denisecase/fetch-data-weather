@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -117.4235,
+        "lat": 47.6572
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 252.99,
+        "feels_like": 245.99,
+        "temp_min": 250.36,
+        "temp_max": 254.31,
+        "pressure": 1029,
+        "humidity": 48
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 40
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1705124412,
+    "sys": {
+        "type": 2,
+        "id": 2016446,
+        "country": "US",
+        "sunrise": 1705073715,
+        "sunset": 1705105203
+    },
+    "timezone": -28800,
+    "id": 5811696,
+    "name": "Spokane",
+    "cod": 200
+}

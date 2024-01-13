@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -94.8724,
+        "lat": 40.346
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 257.31,
+        "feels_like": 250.31,
+        "temp_min": 255.86,
+        "temp_max": 258.14,
+        "pressure": 1009,
+        "humidity": 83
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.23,
+        "deg": 310,
+        "gust": 10.29
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1705124411,
+    "sys": {
+        "type": 1,
+        "id": 4022,
+        "country": "US",
+        "sunrise": 1705066887,
+        "sunset": 1705101203
+    },
+    "timezone": -21600,
+    "id": 5056172,
+    "name": "Maryville",
+    "cod": 200
+}

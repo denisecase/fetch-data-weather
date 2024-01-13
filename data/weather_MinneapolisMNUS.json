@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -93.265,
+        "lat": 44.9777
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 261.99,
+        "feels_like": 254.99,
+        "temp_min": 260.4,
+        "temp_max": 263.4,
+        "pressure": 1006,
+        "humidity": 80
+    },
+    "visibility": 8047,
+    "wind": {
+        "speed": 7.2,
+        "deg": 320
+    },
+    "snow": {
+        "1h": 0.37
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1705124305,
+    "sys": {
+        "type": 2,
+        "id": 2012563,
+        "country": "US",
+        "sunrise": 1705067352,
+        "sunset": 1705099967
+    },
+    "timezone": -21600,
+    "id": 5037649,
+    "name": "Minneapolis",
+    "cod": 200
+}
