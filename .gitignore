@@ -7,3 +7,5 @@
 # Don't commit .vscode settings folder
 .vscode/
 
+# Don't commit .pytest_cache folder
+.pytest_cache/
